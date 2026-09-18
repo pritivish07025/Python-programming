@@ -8,4 +8,4 @@ elif salary<=700000:
     tax=0.08*salary
 else:
     tax=0.10*salary
-print("Name:",name,"salary:",salary,"Tax:",tax)
+print("Name:",name,"salary:",salary,"Tax:",tax) 

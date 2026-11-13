@@ -2,6 +2,7 @@
 
 A collection of Python practice programs, exercises, and experiments created while learning and improving Python programming skills.
 
+
 ## About
 
 This repository contains practice code covering Python fundamentals and common programming concepts. The examples are intended for learning, experimentation, and revision.
